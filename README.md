@@ -26,14 +26,14 @@ Your entries are encrypted on your device before they ever hit the server, using
 
 ## Tech stack
 
-PostgreSql db
-FastApi backend
-React Frontend
+- PostgreSql db
+- FastApi backend
+- React Frontend
 
 ## Deployment
 
-Supabase to host db and backend, tbc
-Railway to host React, tbc
+- Supabase to host db and backend, tbc
+- Railway to host React, tbc
 
 ## Notes
 
